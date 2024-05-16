@@ -1,0 +1,19 @@
+.text-center{
+    background-color: black;
+    text-align: center;
+}
+
+.text-white{
+    color: white;
+}
+.footer{
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFF;
+    font-size: large;
+    font-weight: 400;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: #212EA0;
+}
